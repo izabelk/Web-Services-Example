@@ -1,0 +1,12 @@
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\bin\Debug\Music.Data.dll.config
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\bin\Debug\Music.Data.dll
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\bin\Debug\Music.Data.pdb
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\bin\Debug\EntityFramework.dll
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\bin\Debug\Music.Models.dll
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\bin\Debug\Music.Models.pdb
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\bin\Debug\EntityFramework.xml
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\obj\Debug\Music.Data.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\obj\Debug\Music.Data.dll
+D:\Telerik\Homework\WebServices\WebApi\WebApiMusic\WebApiMusic\WebApiMusic\Music.Data\obj\Debug\Music.Data.pdb
